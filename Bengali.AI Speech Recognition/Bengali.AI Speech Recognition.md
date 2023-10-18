@@ -2,7 +2,7 @@
 
 **比赛链接** 
 
-[<https://www.kaggle.com/competitions/kaggle-llm-science-exam/overview>](https://www.kaggle.com/competitions/bengaliai-speech/overview)https://www.kaggle.com/competitions/bengaliai-speech/overview
+<https://www.kaggle.com/competitions/kaggle-llm-science-exam/overview>
 
 ## 一、比赛背景
 
