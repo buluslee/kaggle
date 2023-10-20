@@ -1,4 +1,4 @@
-# kaggle竞赛Bengali.AI Speech Recognition比赛 首战 银牌
+# kaggle竞赛Bengali.AI Speech Recognition比赛 首战 金牌
 
 **比赛链接** 
 
@@ -450,6 +450,6 @@ print(test.head())
 ```
 ## 五、总结
 我们一共是2队参加比赛
-    一队的最高成绩为 公榜0.372 私榜0.449 排名12 银牌
-    ![image](https://github.com/buluslee/kaggle/assets/93359778/72b6c310-f3dd-447b-b008-79912a35626d)
+    一队的最高成绩为 公榜0.372 私榜0.449 排名11 金牌
+   ![image](https://github.com/buluslee/kaggle/assets/93359778/d4cc6220-e727-4f3d-951e-5cf8f66b5257)
     二队由于设备与时间问题，所以没有获得良好的成绩
