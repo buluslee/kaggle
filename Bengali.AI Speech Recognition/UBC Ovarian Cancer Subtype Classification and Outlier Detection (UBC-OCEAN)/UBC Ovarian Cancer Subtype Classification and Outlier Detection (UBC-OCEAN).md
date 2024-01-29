@@ -258,7 +258,7 @@ _= Parallel(n_jobs=3)(
 
 训练成绩
 
-![image](https://github.com/buluslee/kaggle/assets/93359778/56f24a08-054b-4182-807e-5473fcd1992d)
+![image](https://github.com/buluslee/kaggle/assets/93359778/07a642d2-8d63-42f0-b75e-f14bc55f1cae)
 
 看图，此图为CLAM经过10折交叉验证的训练效果图，可以看出auc指标很好，但acc由于时间匆忙，数据处理还不够精细，所以不是太理想。
 
