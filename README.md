@@ -1,3 +1,4 @@
-# kaggle
-
-## 这是我们DT-AI竞赛团队的kaggle（或者其他竞赛）竞赛获奖方案的集锦，大家可以来学习和提出意见
+![tip](https://badgen.net/badge/Kaggle/金牌1块-语音识别/green?icon=packagephobia)
+![tip](https://badgen.net/badge/kaggle/银牌1块-LLM/red?icon=packagephobia)
+![tip](https://badgen.net/badge/kaggle/铜牌3块-LLM/red?icon=packagephobia)
+## 这是我们DT-AI历史获得kaggle奖牌的数量，在不断更新中。。。。
